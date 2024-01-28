@@ -1,6 +1,6 @@
 # Advanced Arduino Driver Library for MFRC522 on LPCXpresso804
 
-This library allows you to read and write different types of **Radio-Frequency Identification (RFID)** cards using an MFRC522-based reader module with your LPC804 board. It facilitates communication between your LPC804 board and RFID cards via the Serial Peripheral Interface (SPI) interface.
+This workspace allows you to read and write different types of **Radio-Frequency Identification (RFID)** cards using an MFRC522-based reader module with your LPC804 board. It facilitates communication between your LPC804 board and RFID cards via the Serial Peripheral Interface (SPI) interface.
 
 Originally based on the Arduino library found at [Arduino_MFRC522v2](https://github.com/OSSLibraries/Arduino_MFRC522v2), this library has been adapted for the NXP LPCXpresso804 board and translated from C++ to C.
 
