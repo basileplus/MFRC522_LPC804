@@ -1,0 +1,2 @@
+../src/MCUXpresso_Retarget.c:22:5:__sys_write	32	static
+../src/MCUXpresso_Retarget.c:36:5:__sys_readc	8	static

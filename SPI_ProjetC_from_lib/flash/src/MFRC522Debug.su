@@ -1,0 +1,10 @@
+../src/MFRC522Debug.c:15:13:PICC_GetTypeName	16	static
+../src/MFRC522Debug.c:49:13:GetStatusCodeName	16	static
+../src/MFRC522Debug.c:86:6:PrintUID	32	static
+../src/MFRC522Debug.c:98:6:PrintSelectedUID	16	static
+../src/MFRC522Debug.c:106:6:PCD_DumpVersionToSerial	24	static
+../src/MFRC522Debug.c:151:6:PICC_DumpToSerial	32	static
+../src/MFRC522Debug.c:193:6:PICC_DumpDetailsToSerial	32	static
+../src/MFRC522Debug.c:220:6:PICC_DumpMifareClassicToSerial	40	static
+../src/MFRC522Debug.c:263:6:PICC_DumpMifareClassicSectorToSerial	104	static
+../src/MFRC522Debug.c:415:6:PICC_DumpMifareUltralightToSerial	40	static

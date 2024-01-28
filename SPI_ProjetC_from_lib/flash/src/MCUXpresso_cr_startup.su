@@ -1,0 +1,9 @@
+../src/MCUXpresso_cr_startup.c:219:6:data_init	40	static
+../src/MCUXpresso_cr_startup.c:228:6:bss_init	24	static
+../src/MCUXpresso_cr_startup.c:255:1:ResetISR	24	static
+../src/MCUXpresso_cr_startup.c:322:6:NMI_Handler	8	static
+../src/MCUXpresso_cr_startup.c:327:6:HardFault_Handler	8	static
+../src/MCUXpresso_cr_startup.c:332:6:SVC_Handler	8	static
+../src/MCUXpresso_cr_startup.c:337:6:PendSV_Handler	8	static
+../src/MCUXpresso_cr_startup.c:342:6:SysTick_Handler	8	static
+../src/MCUXpresso_cr_startup.c:353:6:IntDefaultHandler	8	static

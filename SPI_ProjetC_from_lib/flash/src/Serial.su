@@ -1,0 +1,5 @@
+../src/Serial.c:11:5:sendchar	16	static
+../src/Serial.c:19:5:MyLowLevelPutchar	16	static
+../src/Serial.c:27:5:getkey	8	static
+../src/Serial.c:35:5:MyLowLevelGetchar	8	static
+../src/Serial.c:57:6:setup_debug_uart	8	static

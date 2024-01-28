@@ -1,0 +1,4 @@
+../src/spi.c:14:6:SPI0_IRQHandler	16	static
+../src/spi.c:40:6:SPImasterWriteOnly	24	static
+../src/spi.c:85:6:SPImasterWriteRead	32	static
+../src/spi.c:147:6:SPImasterReadOnly	24	static

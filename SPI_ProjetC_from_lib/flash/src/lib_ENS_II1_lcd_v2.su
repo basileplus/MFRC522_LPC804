@@ -1,0 +1,5 @@
+../src/lib_ENS_II1_lcd_v2.c:17:6:init_lcd	24	static
+../src/lib_ENS_II1_lcd_v2.c:122:6:lcd_puts	32	static
+../src/lib_ENS_II1_lcd_v2.c:138:6:lcd_putc	32	static
+../src/lib_ENS_II1_lcd_v2.c:150:6:lcd_gohome	24	static
+../src/lib_ENS_II1_lcd_v2.c:164:6:lcd_position	32	static

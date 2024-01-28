@@ -1,0 +1,4 @@
+../src/MFRC522DriverSPI.c:10:6:PCD_WriteRegister	24	static
+../src/MFRC522DriverSPI.c:24:6:PCD_WriteRegisterBytes	72	dynamic
+../src/MFRC522DriverSPI.c:34:9:PCD_ReadRegister	40	static
+../src/MFRC522DriverSPI.c:42:6:PCD_ReadRegisterBytes	32	static
