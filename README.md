@@ -4,7 +4,7 @@ This library allows you to read and write different types of **Radio-Frequency I
 
 Originally based on the Arduino library found at [Arduino_MFRC522v2](https://github.com/OSSLibraries/Arduino_MFRC522v2), this library has been adapted for the NXP LPCXpresso804 board and translated from C++ to C.
 
-The primary functionality allows you **detect RFID cards**. It is supposed to dump information about an RFID card but this function **does not work correctly**. Other functions from the original Arduino library are expected to be compatible.
+The primary functionality allows you **detect RFID cards**. The main function is supposed to dump information about an RFID card but this function **does not work correctly**. Other functions from the original Arduino library are expected to be compatible.
 
 ## Compatibility
 
